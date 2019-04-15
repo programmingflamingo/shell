@@ -1,5 +1,5 @@
 # Shell
-This is a [](). 
+This is a two part application. The first part consists of a [shell](https://en.wikipedia.org/wiki/Shell_(computing)) where a user can enter commands. The second part consists of a [monte carlo simulation](https://en.wikipedia.org/wiki/Monte_Carlo_method) where the amount of page faults in the applications are measured.
 
 ## Running the Application
 * ### Linux
